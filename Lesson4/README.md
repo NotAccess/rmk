@@ -21,11 +21,9 @@ KDA
 Требуется создать экран музыкального плеера с использованием «binding»
 для горизонтальной и портретной ориентации.
 
-<figure>
-<img src="images/clipboard-4087888419.png" alt="" />
-<figcaption aria-hidden="true"><img
-src="images/clipboard-336143738.png" /></figcaption>
-</figure>
+![](images/clipboard-3726576984.png)
+
+![](images/clipboard-429021478.png)
 
 ## 2 ОСНОВНЫЕ ПОНЯТИЯ АСИНХРОННОЙ РАБОТЫ В ОС «ANDROID»
 
