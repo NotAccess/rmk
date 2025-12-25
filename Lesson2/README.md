@@ -1,7 +1,18 @@
-# README3
+# Практическое занятие № 2/4ч.
 KDA
 
-# Практическое занятие № 2/4ч.
+<table>
+<tbody>
+<tr class="odd">
+<td>Работу выполнил студент группы БИСО-01-21</td>
+<td style="text-align: right;">Кабанов Даниил Артурович</td>
+</tr>
+<tr class="even">
+<td></td>
+<td style="text-align: right;"></td>
+</tr>
+</tbody>
+</table>
 
 ## 2.4 Контрольное задание
 
